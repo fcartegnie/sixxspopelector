@@ -1,0 +1,12 @@
+Simple script to elect the best Sixxs ipv6 tunnel according to your location.
+
+On linux just run:
+sudo perl sixxslist.pl
+
+Solaris:
+pfexec perl sixxslist.pl
+
+or your own privilegied way :)
+
+See http://www.sixxs.net for information about registering a tunnel.
+
